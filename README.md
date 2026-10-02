@@ -9,7 +9,7 @@ Bu proje, Python ve API entegrasyonu kullanılarak kurulabilen, sadece iklim bil
 ÖZET BİLGİLER
 
 - API DESTEKLİ: Bot, iklim ve çevre bilgilerini dinamik olarak bir API üzerinden çeker.
-- SADECE BİLGİ: Kullanıcıya soru sormaz.
+- BİLGİ: Kullaniciya bazen soru sorar ve ipuclari verir.
 
 ---
 
